@@ -39,3 +39,4 @@ struct ContentView: View {
     }
 }
 ```
+<img src= https://raw.githubusercontent.com/BurningBeans/yzu-swiftui-1121-1093508/main/HW1/IMG_0190.PNG">
