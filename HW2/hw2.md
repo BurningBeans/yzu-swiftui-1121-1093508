@@ -91,4 +91,4 @@ struct ContentView : View {
 }
 
 ```
-<video width="960" height="667" src="https://raw.githubusercontent.com/BurningBeans/yzu-swiftui-1121-1093508/main/HW2/hw2.mp4"></video>
+![HW2](https://raw.githubusercontent.com/BurningBeans/yzu-swiftui-1121-1093508/main/HW2/hw2.gif)
