@@ -91,4 +91,4 @@ struct ContentView : View {
 }
 
 ```
-[HW2](https://github.com/BurningBeans/yzu-swiftui-1121-1093508/blob/main/HW2/hw2.mp4)
+[HW2](/hw2.mp4)
